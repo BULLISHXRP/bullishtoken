@@ -1,0 +1,10 @@
+[METADATA]
+title = "BULLISH"
+description = "The official token of the Bullish community on the XRP Ledger."
+icon = "https://raw.githubusercontent.com/BULLISHXRP/bullishtoken/main/BullishToken_icon.png"
+website = "https://BULLISHXRP.github.io/bullishtoken/"
+
+  [[CURRENCY]]
+  code = "BULLISH"
+  issuer = "rDzDFNxV1SmhdRFJUGu7HBZHN57j8Cx3n9"
+  display_decimals = 2
