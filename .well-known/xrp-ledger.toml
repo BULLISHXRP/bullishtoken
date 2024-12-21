@@ -2,7 +2,7 @@
 title = "BULLISH"
 description = "The official token of the Bullish community on the XRP Ledger."
 icon = "https://raw.githubusercontent.com/BULLISHXRP/bullishtoken/main/BullishToken_icon.png"
-website = "https://BULLISHXRP.github.io/bullishtoken/"
+website = "https://BULLISHXRP.github.io"
 
   [[CURRENCY]]
   code = "BULLISH"
