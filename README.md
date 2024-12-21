@@ -1,2 +1,2 @@
 # bullishtoken
-Metadata for Bullish token on xrpl
+Metadata for Bullish token on xrpl.
